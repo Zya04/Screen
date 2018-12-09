@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Screen</string>
+    <string name="backArrow">backArrow </string>
+    <string name="title">Mixed Fruit Pancakes \n Recipe</string>
+    <string name="cakeImage">cake image</string>
+    <string name="todo">TODO</string>
+    <string name="number">365</string>
+    <string name="firstCardView1">20 min</string>
+    <string name="firstCardView2">Cooking time</string>
+    <string name="secondCardView1">Medium</string>
+    <string name="secondCardView2">Difficulty</string>
+    <string name="thirdCardView1">12</string>
+    <string name="thirdCardView2">Ingredients</string>
+    <string name="fourthCardView1">200g</string>
+    <string name="fourthCardView2">Per serving</string>
+    <string name="textButton">SHOPPING LIST</string>
+    <string name="textSearch">Search recipes...</string>
+    <string name="titleKeyword">Popular Keywords</string>
+    <string name="breakfast">\"breakfast\"</string>
+    <string name="avocado_salad">\"avocado salad\"</string>
+    <string name="italian_food">\"italian food\"</string>
+    <string name="dinner">\"dinner\"</string>
+    <string name="chinese_recipe">\"chinese recipe\"</string>
+    <string name="blueberry">\"blueberry\"</string>
+    <string name="titleRecipe">Popular Recipe</string>
+    <string name="recipe1">Chicken Tikka Masala</string>
+    <string name="descRecipe1">If there\'s one dish guaranteed to be on...</string>
+    <string name="recipe2">Swordfish Steaks</string>
+    <string name="descRecipe2">Prepare grill for medium-high heat oil...</string>
+    <string name="recipe3">Cacio e Pepe Pasta</string>
+    <string name="descRecipe3">If one pasta dish exemplifies the comp...</string>
+    <string name="like1">220</string>
+    <string name="like2">342</string>
+    <string name="like3">156</string>
+</resources>
